@@ -36,14 +36,14 @@ p{
 }
 
 a{
-  color:white;
+  color:black;
   font-family: 'fantasy',sans-serif;
   margin:10px 20px;
   text-decoration: none;
 }
 
 a:hover{
-  color:#0a043c;
+  color:white;
 }
 /*************CLASS SELECTORS**********/
 .top-container{
