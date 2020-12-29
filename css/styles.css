@@ -97,6 +97,20 @@ margin: 100px 0 1px;
   color: #0a043c;
   font-size:0.75rem;
 }
+.appbrewery{
+  text-decoration: underline;
+  color: blue;
+}
+.appbrewery:hover{
+  color: red;
+}
+.w3schools{
+  text-decoration: underline;
+  color: blue;
+}
+.w3schools:hover{
+  color: red;
+}
 .btn {
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD4, #16C79A);
